@@ -1,0 +1,10 @@
+ota-property-files=payload_metadata.bin:9673:149825,payload.bin:9673:1155550239,payload_properties.txt:1155559970:156,care_map.txt:776:239,compatibility.zip:1068:8558,metadata:69:659                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:9673:1155550239,payload_properties.txt:1155559970:156,care_map.txt:776:239,compatibility.zip:1068:8558,metadata:69:659                    
+ota-type=AB
+post-build=xiaomi/jasmine/jasmine_sprout:9/PKQ1.180904.001/V10.0.10.0.PDIMIXM:user/release-keys
+post-build-incremental=V10.0.10.0.PDIMIXM
+post-sdk-level=28
+post-security-patch-level=2019-06-05
+post-timestamp=1560252112
+pre-device=jasmine_sprout
