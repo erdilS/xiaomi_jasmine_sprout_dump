@@ -1,0 +1,4 @@
+SPARSECRC-LIST
+system_a 0xeded556b 5
+vendor_b 0xb4af160a 2
+vendor_a 0xb4af160a 2
